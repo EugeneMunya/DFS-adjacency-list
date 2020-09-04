@@ -41,19 +41,19 @@ namespace DFS
         }
 
         public void DeepFisrtSearch(int startingNode){
-            Stack<int> storeVistedNode = new Stack<int>();
-            storeVistedNode.Push(startingNode);
+            Stack<int> storedVistedNode = new Stack<int>();
+            storedVistedNode.Push(startingNode);
             visited[startingNode]= true;
 
-            while(storeVistedNode.Count!= 0){
-              int node = storeVistedNode.Pop();
+            while(storedVistedNode.Count!= 0){
+              int node = storedVistedNode.Pop();
               Console.Write(node+ " ");
               List<int> connectedNodes = graph[node];
 
               foreach (var item in connectedNodes )
               {
                   if(visited[item]!=true){
-                      storeVistedNode.Push(item);
+                      storedVistedNode.Push(item);
                       visited[item]=true;
                   }
               }
