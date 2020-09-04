@@ -1,0 +1,13 @@
+C:\Users\student\Desktop\Algorithm&& Datastructures\DFS\obj\Debug\net5.0\DFS.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Algorithm&& Datastructures\DFS\obj\Debug\net5.0\DFS.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Algorithm&& Datastructures\DFS\obj\Debug\net5.0\DFS.AssemblyInfo.cs
+C:\Users\student\Desktop\Algorithm&& Datastructures\DFS\obj\Debug\net5.0\DFS.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Algorithm&& Datastructures\DFS\bin\Debug\net5.0\DFS.exe
+C:\Users\student\Desktop\Algorithm&& Datastructures\DFS\bin\Debug\net5.0\DFS.deps.json
+C:\Users\student\Desktop\Algorithm&& Datastructures\DFS\bin\Debug\net5.0\DFS.runtimeconfig.json
+C:\Users\student\Desktop\Algorithm&& Datastructures\DFS\bin\Debug\net5.0\DFS.runtimeconfig.dev.json
+C:\Users\student\Desktop\Algorithm&& Datastructures\DFS\bin\Debug\net5.0\DFS.dll
+C:\Users\student\Desktop\Algorithm&& Datastructures\DFS\bin\Debug\net5.0\DFS.pdb
+C:\Users\student\Desktop\Algorithm&& Datastructures\DFS\obj\Debug\net5.0\DFS.dll
+C:\Users\student\Desktop\Algorithm&& Datastructures\DFS\obj\Debug\net5.0\DFS.pdb
+C:\Users\student\Desktop\Algorithm&& Datastructures\DFS\obj\Debug\net5.0\DFS.genruntimeconfig.cache
